@@ -516,7 +516,7 @@ footer {
   }
 
   .item-about {
-    -ms-grid-rows: 4fr 1fr 1fr;
-    grid-template-rows: 4fr 1fr 1fr;
+    -ms-grid-rows: 2fr 1fr 1fr;
+    grid-template-rows: 2fr 1fr 1fr;
   }
 }
