@@ -210,7 +210,6 @@ button._active {
 }
 .greeting__pic img {
   border: solid 2px #fff;
-  outline: solid 3px black;
   width: 50%;
   border-radius: 50%;
 }
